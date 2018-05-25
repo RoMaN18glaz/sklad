@@ -12,7 +12,7 @@ type
 
   { TForm1 }
 
-  TForm1 = class(TForm)
+  TForm1 = sklad(TForm)
     Button1: TButton;
     Button2: TButton;
     Button3: TButton;
